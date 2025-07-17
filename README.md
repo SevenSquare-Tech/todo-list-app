@@ -10,6 +10,8 @@ Hello there!
 
 I'm excited to present to you my Todo App project. This web application is designed to help users manage their tasks and stay organized. It allows users to create, update, and delete tasks, as well as mark them as completed. The app is built using JavaScript, HTML, and CSS, and it leverages the power of the browser's local storage to store the task data.
 
+[Learn to Create a To-Do List App Using Vanilla JavaScript.](https://www.sevensquaretech.com/create-todo-list-app-using-vanilla-javascript-with-github/)
+
 ## Features
 
 1. **Task Creation**: Users can easily create new tasks by entering a title and a description. Once created, the task is displayed in the task list.
